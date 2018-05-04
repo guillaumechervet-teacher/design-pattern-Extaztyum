@@ -1,0 +1,15 @@
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\BasketTest.deps.json
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\BasketTest.runtimeconfig.json
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\BasketTest.runtimeconfig.dev.json
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\BasketTest.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\b\BasketTest\Debug\netcoreapp2.0\BasketTest.pdb
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.csprojResolveAssemblyReference.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.csproj.CoreCompileInputs.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.AssemblyInfoInputs.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.AssemblyInfo.cs
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.csproj.CopyComplete
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\.vs\Basket\lut\0\i\BasketTest\Debug\netcoreapp2.0\BasketTest.pdb

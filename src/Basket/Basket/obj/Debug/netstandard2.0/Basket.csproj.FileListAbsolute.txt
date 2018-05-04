@@ -1,0 +1,10 @@
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\bin\Debug\netstandard2.0\Basket.deps.json
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\bin\Debug\netstandard2.0\Basket.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\bin\Debug\netstandard2.0\Basket.pdb
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.csprojResolveAssemblyReference.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.csproj.CoreCompileInputs.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfoInputs.cache
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfo.cs
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.dll
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.pdb
+C:\sc\ProjetEpsi\design-pattern-Extaztyum\src\Basket\Basket\bin\Debug\netstandard2.0\article-database.json
